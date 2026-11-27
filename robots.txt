@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rocklanone.github.io/futuristic-femmes-stage/sitemap.xml
